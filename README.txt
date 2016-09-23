@@ -24,7 +24,7 @@ carbon.initial.osgi.bundles=\
       }
 
 
-3) aabbccdd
+3) aabbccddee
 
 
 
