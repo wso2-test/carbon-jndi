@@ -105,11 +105,11 @@
             <name>WSO2 Nexus Release Repository</name>
             <url>http://mavenstg.wso2.org/nexus/service/local/staging/deploy/maven2</url>
         </repository>
-        <!--snapshotRepository>
+        <snapshotRepository>
             <id>wso2.snapshots</id>
             <name>WSO2 Snapshot Repository</name>
             <url>http://mavenstg.wso2.org/nexus/content/repositories/snapshots/</url>
-        </snapshotRepository-->
+        </snapshotRepository>
 </distributionManagement>
 
     <dependencyManagement>
