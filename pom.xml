@@ -93,9 +93,9 @@
     </build>
 
     <scm>
-        <url>https://github.com/wso2/carbon-jndi.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-jndi.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/carbon-jndi.git</connection>
+        <url>https://github.com/wso2-test/carbon-jndi.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-test/carbon-jndi.git</developerConnection>
+        <connection>scm:git:https://github.com/wso2-test/carbon-jndi.git</connection>
         <tag>HEAD</tag>
     </scm>
 
